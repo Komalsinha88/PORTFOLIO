@@ -2,5 +2,5 @@
 Personal Portfolio 
 
 # WEBSITE LINK
-https://komalsinha88.github.io/PORTFOLIO/
+https://preeminent-lebkuchen-d57fba.netlify.app/
 
